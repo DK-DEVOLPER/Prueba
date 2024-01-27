@@ -45,7 +45,7 @@ handler.all = async function (m) {
 					description: 'Hutao Bot Whatsapp',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(imglinkmsjj)).buffer(), //klo iconnya mau sesuai profile user ganti global.thumb jadi pp
-					sourceUrl: "https://wa.me/5493865701499",					
+					sourceUrl: "https://wa.me/5493865654591",					
 				}
 			}
 		}
