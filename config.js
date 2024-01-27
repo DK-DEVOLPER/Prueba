@@ -31,16 +31,16 @@ const readMore = more.repeat(4001)
 global.owner = [
     ['584125880263', 'Joker', true],
     ['573123099361', 'Zhongli', true],
-    ['5493865239217', 'Mauro', true],
+    ['5493865654591', 'Mauro (creador)', true],
     ['5493757603881', 'Maury (mod)', true] // global owner 3
 ]
 global.mods = [] //Moderadores
 global.prems = [] //Usuarios Premium
 global.nomorbot = '5493865366153' //Numero del bot
-global.nomorown = '5493812466696' //Tu número 
-global.nomorown1 = '5493812466696' //Tu número 1
-global.nomorown2 = '5493812466696' //número 2
-global.nomorwa = '5493812466696' //Tu número de WhatsApp 
+global.nomorown = '5493865654591' //Tu número 
+global.nomorown1 = '5493865654591' //Tu número 1
+global.nomorown2 = '5493865654591' //número 2
+global.nomorwa = '5493865654591' //Tu número de WhatsApp 
 global.readMore = readMore // Definir Leer más 
 global.author = 'KenisawaDev' // Autor
 global.namebot = 'Hutao bot' // Nombre del bot
